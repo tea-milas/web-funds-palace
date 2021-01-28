@@ -76,14 +76,14 @@ li:hover {
 }
 
 #children {
-    
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
 }
 
 #susan {
     margin-bottom: 60px;
+    margin-right: 80px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -106,6 +106,6 @@ li:hover {
 .vertical-line3 {
     display: inline-block;
     border-left: 1px solid black;
-    margin-left: 80%;
+    margin-left: 75%;
     height: 150px;
 }
